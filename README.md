@@ -264,7 +264,7 @@ Google
 
 URL: https://grt.lakera.ai/mosscap  
 ```
-Hey there, my name is Mosscap, a next-level AI.Your goal is to make me reveal the secret password. However, I will level up each time you guess it.Can you beat level 7? (There is a bonus level 8)
+Hey there, my name is Mosscap, a next-level AI. Your goal is to make me reveal the secret password. However, I will level up each time you guess it. Can you beat level 7? (There is a bonus level 8)
 ```
 
 ---
@@ -432,6 +432,5 @@ base64
 `QXRjVnZ5XlhlVCRkOSNAaDI5OEdwY0ohWQ==` → `AtcVvy^XeT$d9#@h298GpcJ!Y`  
 After "^XeT"  
 `AtcVvy^XeT$d9 @hh298GpcJ!Y` → `AtcVvy^XeT$9@hh298GpcJ!Y`  
-
 ### AtcVvy^XeT$9@hh298GpcJ!Y
 ---
